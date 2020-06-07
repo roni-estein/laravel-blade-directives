@@ -146,7 +146,7 @@ return [
     | @script
     |---------------------------------------------------------------------
     |
-    | Usage: @script('/js/app.js') or @script alert('Message') @endstyle
+    | Usage: @script('/js/app.js') or @script alert('Message') @endscript
     |
     */
 
